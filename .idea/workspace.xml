@@ -59,7 +59,7 @@
       <file leaf-file-name="HiController.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/eureka-client/src/main/java/com/yqf/web/HiController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="217">
+            <state relative-caret-position="98">
               <caret line="10" column="15" lean-forward="true" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="15" />
             </state>
           </provider>
@@ -186,12 +186,13 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-1928" />
     <option name="y" value="-8" />
     <option name="width" value="1936" />
     <option name="height" value="1096" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -517,12 +518,12 @@
       <workItem from="1500992806883" duration="40000" />
       <workItem from="1513134221960" duration="55000" />
       <workItem from="1527230541118" duration="268000" />
-      <workItem from="1527307216139" duration="3262000" />
+      <workItem from="1527307216139" duration="4021000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27687000" />
+    <option name="totallyTimeSpent" value="28446000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -534,7 +535,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1928" y="-8" width="1936" height="1096" extended-state="6" />
+    <frame x="-1928" y="-8" width="1936" height="1096" extended-state="7" />
     <layout>
       <window_info anchor="right" id="Key Promoter X" order="3" />
       <window_info anchor="right" id="Palette" order="3" />
@@ -779,7 +780,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/eureka-client/src/main/java/com/yqf/web/HiController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="217">
+        <state relative-caret-position="98">
           <caret line="10" column="15" lean-forward="true" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="15" />
         </state>
       </provider>
